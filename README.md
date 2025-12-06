@@ -94,7 +94,6 @@ Flight Delay Prediction/
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/ashishsahu1/ML-ProjectYard.git
    cd ML-ProjectYard/Flight\ Delay\ Prediction
 2. Install dependencies:
 pip install -r requirements.txt
